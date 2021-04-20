@@ -1,0 +1,8 @@
+d:\我的文件\visual studio 2010\Projects\AudioVideoClip\AudioVideoClip\bin\Debug\AudioVideoClip.exe
+d:\我的文件\visual studio 2010\Projects\AudioVideoClip\AudioVideoClip\bin\Debug\AudioVideoClip.pdb
+d:\我的文件\visual studio 2010\Projects\AudioVideoClip\AudioVideoClip\obj\Debug\AudioVideoClip.csprojResolveAssemblyReference.cache
+d:\我的文件\visual studio 2010\Projects\AudioVideoClip\AudioVideoClip\obj\Debug\AudioVideoClip.Form1.resources
+d:\我的文件\visual studio 2010\Projects\AudioVideoClip\AudioVideoClip\obj\Debug\AudioVideoClip.Properties.Resources.resources
+d:\我的文件\visual studio 2010\Projects\AudioVideoClip\AudioVideoClip\obj\Debug\AudioVideoClip.csproj.GenerateResource.Cache
+d:\我的文件\visual studio 2010\Projects\AudioVideoClip\AudioVideoClip\obj\Debug\AudioVideoClip.exe
+d:\我的文件\visual studio 2010\Projects\AudioVideoClip\AudioVideoClip\obj\Debug\AudioVideoClip.pdb
